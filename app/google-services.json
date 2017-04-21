@@ -1,3 +1,42 @@
 {
- // REPLACE_WITH_YOUR_PROJECTS GOOGLE-SERVICES.JSON FILE
+  "project_info": {
+    "project_number": "29229647616",
+    "firebase_url": "https://chat-49576.firebaseio.com",
+    "project_id": "chat-49576",
+    "storage_bucket": "chat-49576.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29229647616:android:90e5088fff923640",
+        "android_client_info": {
+          "package_name": "app.real_time_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29229647616-rhb24ii2sa1g728r2gbii9c1mat1sfi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD749BsLC1eYO9OzoMbw57KAmJmZ5ukwpo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }
